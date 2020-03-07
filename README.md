@@ -1,4 +1,7 @@
 # php-web
+
+This repo consists of a Documentaion on the project “pawsCARE: ICT for Street Animals of Kathmandu for the Betterment of their Condition”
+
 Tools used:
   - UI: HTML, CSS, Bootstrap
   - Backend Programming: PHP 
