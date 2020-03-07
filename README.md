@@ -17,6 +17,7 @@ Design Notataions:
   - Sequence Diagram
 
 Project Schedule - Gantt chart
+
 Test cases
 
 Appendix - Source Code for the project
